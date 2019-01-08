@@ -1,0 +1,25 @@
+{
+  "name": "ttpl",
+  "version": "3.0.0",
+  "description": "",
+  "homepage": "",
+  "author": {
+    "name": "lyuehh",
+    "email": "lyuehh@gmail.com",
+    "url": ""
+  },
+  "keywords": [
+    ""
+  ],
+  "devDependencies": {},
+  "scripts": {},
+  "bin": {
+    "ttpl": "./bin/cli.js"
+  },
+  "repository": "lyuehh/ttpl",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.12.2",
+    "nunjucks": "^3.0.1"
+  }
+}
